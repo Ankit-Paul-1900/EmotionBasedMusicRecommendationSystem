@@ -1,0 +1,11 @@
+id,genre,track_name,artist_name,valence,energy,danceability,acousticness,instrumentalness,liveness,loudness,speechiness,tempo,mood_feature,distance
+1hftbm35iYigvgdvtNd05j,garage,See Saw,Jay Reatard,0.537,0.956,0.158,0.016,0.0112,0.46,-1.894,0.0526,179.62,"[0.537, 0.956]",0.0030000000000000027
+25EgA1A1OZBRw25Mjyw08g,techno,Rattle - Original Mix,Various Artists,0.542,0.956,0.744,0.00161,0.85,0.339,-4.797,0.052,127.996,"[0.542, 0.956]",0.0058309518948453055
+5MqV2o7iLd0lNREZ7SYL05,punk-rock,Pathetic,blink-182,0.532,0.958,0.234,8.54e-06,3.62e-06,0.206,-4.64,0.0816,101.935,"[0.532, 0.958]",0.007071067811865481
+2fea1IQDXMABCGce4H5dzZ,indie,Disarray,Preoccupations,0.532,0.948,0.278,0.00173,0.439,0.0947,-3.819,0.056,74.635,"[0.532, 0.948]",0.007071067811865481
+4JgaR869vaibKJFQqQGRur,ska,I Don't Love You Anymore,Bomb the Music Industry!,0.547,0.949,0.384,0.22,0.0,0.736,-3.688,0.096,136.764,"[0.547, 0.949]",0.010770329614269018
+5TVqPdNpDVk0g8rv5Fxj5B,ambient,Facing East,Thievery Corporation,0.549,0.954,0.696,0.105,0.841,0.111,-4.641,0.0369,99.01,"[0.549, 0.954]",0.012041594578792305
+5EC1LGwsPHVXBcjlf3cHct,hardcore,Before My Eyes,Agnostic Front,0.526,0.958,0.419,0.000526,0.0,0.174,-4.929,0.0976,95.309,"[0.526, 0.958]",0.012083045973594584
+6MTvmhBxfAND7udHDYmccZ,hardcore,Stealing Peoples' Mail,Dead Kennedys,0.538,0.968,0.419,0.265,0.018,0.377,-7.205,0.142,138.217,"[0.538, 0.968]",0.015033296378372921
+33ljHroCaIReVg7NTYEh4z,dance,Lights & Music,Cut Copy,0.543,0.939,0.612,0.0763,0.119,0.749,-4.206,0.0412,125.981,"[0.543, 0.939]",0.01523154621172783
+3msS7xaelR4Oa0n7IwHkgF,indie,T-Shirt Weather,Circa Waves,0.552,0.95,0.415,0.00126,3.86e-05,0.133,-4.676,0.0621,160.017,"[0.552, 0.95]",0.015297058540778369

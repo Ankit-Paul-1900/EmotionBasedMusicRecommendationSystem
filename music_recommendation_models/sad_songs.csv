@@ -1,0 +1,11 @@
+id,genre,track_name,artist_name,valence,energy,danceability,acousticness,instrumentalness,liveness,loudness,speechiness,tempo,mood_feature,distance
+1OzSfjFW08DTD51XoNnog7,soundtracks,"I'm Not That Girl - From ""Wicked"" Original Broadway Cast Recording/2003",Stephen Schwartz,0.205,0.0755,0.231,0.958,0.000119,0.101,-18.902,0.0395,180.188,"[0.205, 0.0755]",0.009353608929178088
+1hVQx6bg4uKPljAUkNjpY2,sad,Gone Away,Various Artists,0.219,0.0698,0.521,0.985,5.63e-05,0.116,-14.911,0.0381,128.294,"[0.219, 0.0698]",0.019849433241279215
+3dObajAARX9gtSsSxcd9Tc,classical,make black white,Tansy Davies,0.223,0.0699,0.307,0.917,0.0707,0.0554,-20.079,0.037,129.709,"[0.223, 0.0699]",0.022605530296810124
+6TkNbkFSdxJXm0AoHAgGDd,jazz,"He's Younger Than You Are - From ""Alfie"" Score",Sonny Rollins,0.22,0.11,0.417,0.951,0.721,0.174,-16.504,0.0405,57.312,"[0.22, 0.11]",0.028827764394763606
+4bovXC1BdSlbG1Q8uJqBYk,show-tunes,I Miss the Mountains,Original Cast Recording,0.22,0.11,0.305,0.858,1.1e-06,0.0794,-16.727,0.0437,170.157,"[0.22, 0.11]",0.028827764394763606
+0i9N0w8cKyNmAuuRS8XMOY,opera,"Bellini: La sonnambula, Act 1: ""Compagne... teneri amici"" - ""Come per me sereno” (Amina)",Maria Callas,0.18,0.0651,0.382,0.988,0.00523,0.0517,-15.945,0.0503,136.048,"[0.18, 0.0651]",0.032620392394942146
+3QacjulTJIwUpczeGQWJKc,show-tunes,The Mirror (Angel of Music) - Single Album Version,Andrew Lloyd Webber,0.199,0.12,0.181,0.85,5.31e-06,0.142,-20.486,0.04,184.987,"[0.199, 0.12]",0.03588927416373866
+0qdXXDFEIXJDkZhcBPqPz9,holidays,There's a Christmas Tree in Heaven,Eddy Howard,0.203,0.122,0.479,0.969,4.96e-06,0.17,-12.045,0.0308,75.288,"[0.203, 0.122]",0.037320771696201564
+6jI4Y84P9r6TtR9FpLRZZy,opera,"Bizet: Carmen, Act 1: ""L'amour est un oiseau rebelle"" (Habanera) [Carmen, Chorus]",Georges Bizet,0.231,0.115,0.363,0.976,0.0,0.0992,-17.325,0.0689,134.424,"[0.231, 0.115]",0.03920510170883378
+4HEoHSEH8cEYGJBzOgXqX3,classical,Appalachian Spring: II. Allegro,Aaron Copland,0.181,0.116,0.354,0.979,0.908,0.0721,-19.229,0.0478,146.956,"[0.181, 0.116]",0.039980495244556435

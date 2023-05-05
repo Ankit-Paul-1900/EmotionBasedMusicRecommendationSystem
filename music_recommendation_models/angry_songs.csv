@@ -1,0 +1,11 @@
+id,genre,track_name,artist_name,valence,energy,danceability,acousticness,instrumentalness,liveness,loudness,speechiness,tempo,mood_feature,distance
+2Lv7vYpPx68ttqspWdMnvw,progressive-house,How You Love Me,3LAU,0.457,0.902,0.555,0.0303,0.0,0.0796,-4.224,0.155,128.007,"[0.457, 0.902]",0.006000000000000005
+6qvch1RQg9YYltSDSnAX0f,drum-and-bass,Forest Fires,Fred V & Grafix,0.461,0.903,0.464,0.00226,0.0336,0.111,-4.072,0.0527,174.082,"[0.461, 0.903]",0.006403124237432854
+1gihuPhrLraKYrJMAEONyc,dub,Sleepwalker (Invader! Remix),Various Artists,0.455,0.901,0.558,0.00306,0.0862,0.0898,-4.219,0.0632,152.96,"[0.455, 0.901]",0.007280109889280525
+6ciKUowmuLiaK4txVUI76k,punk,Feel the Same,Bully,0.446,0.903,0.556,0.0846,9.71e-05,0.42,-5.157,0.0819,177.657,"[0.446, 0.903]",0.012083045973594584
+3Llqnc4urPjFeSnJbyDY2c,latino,En la Ciudad de la Furia - En Vivo Me Verás Volver Gira 2007,Soda Stereo,0.459,0.895,0.544,0.000729,0.0748,0.411,-6.141,0.0343,126.028,"[0.459, 0.895]",0.013152946437965917
+6GunRGvhXUyvREwRnnKbDC,industrial,Christfuck,:Wumpscut:,0.446,0.916,0.518,0.00282,0.0337,0.0815,-5.885,0.0505,107.99,"[0.446, 0.916]",0.013601470508735456
+6CmDqRNCS11XioevZhd2El,industrial,Abortive,Ministry,0.446,0.9,0.712,0.000532,0.682,0.051,-13.808,0.0548,120.121,"[0.446, 0.9]",0.013601470508735456
+6iPA4rfysi2ijan9UAvoKB,goth,Bare Grace Misery,Nightwish,0.471,0.908,0.496,8.8e-05,0.000265,0.128,-5.644,0.0333,150.956,"[0.471, 0.908]",0.013999999999999957
+5SXQnuXUIKYFAH1CFBLOMX,alt-rock,Screamager,Therapy?,0.455,0.894,0.182,0.000236,0.131,0.674,-6.226,0.09,176.578,"[0.455, 0.894]",0.014142135623730963
+4wzt5Rrk3W98pHXAqutuJw,alternative,Dig,Incubus,0.463,0.895,0.45,0.0293,0.0,0.116,-4.739,0.0386,77.577,"[0.463, 0.895]",0.014317821063276366
